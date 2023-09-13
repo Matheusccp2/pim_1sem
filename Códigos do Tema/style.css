@@ -1,0 +1,30 @@
+* {
+    background-color: #191970;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.h1 {
+    text-align: center;
+    justify-content: center;
+}
+
+.conteudo {
+    text-align: center;
+    margin: 100px;
+    border: 3px solid;
+}
+
+#titulo {
+    color: #B0C4DE;
+
+}
+
+#aviao {
+    width: 40%;
+}
+
+#texto {
+    margin: 30px;
+    color: #B0C4DE	;
+    font-size: 1.5rem; 
+}
